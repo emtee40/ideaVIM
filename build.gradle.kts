@@ -75,7 +75,7 @@ plugins {
   id("org.jetbrains.kotlinx.kover") version "0.6.1"
   id("com.dorongold.task-tree") version "2.1.1"
 
-  id("com.google.devtools.ksp") version "1.9.22-1.0.17"
+  id("com.google.devtools.ksp") version "1.9.22-1.0.18"
 }
 
 ksp {
